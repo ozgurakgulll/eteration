@@ -13,3 +13,29 @@ pnpm dev
 # or
 bun dev
 ```
+
+Run the production server:
+
+```bash
+npm run build
+# or
+yarn start
+# or
+pnpm start
+# or
+bun start
+```
+
+## Test
+
+Test yalnızca örnek için eklenmiştir. Daha detaylı geliştirilmesi gerekmektedir.
+
+```bash
+npm run test
+# or
+yarn run test
+# or
+pnpm run test
+# or
+bun run test
+```
