@@ -93,7 +93,7 @@ export const Pagination: React.FC<PaginationProps> = ({
 
     return (
         <nav
-            className="flex items-center justify-center space-x-2 w-full mt-4"
+            className="flex items-center justify-center space-x-2 w-full mt-4 mb-10"
             aria-label="Pagination"
         >
             {currentPage > 1 && (
